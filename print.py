@@ -6,4 +6,4 @@ list2 = [11,12,13,14,15]
 res2 = [x*2 for x in list2]
 print(res2)
 
-prinT("Completed")
+print("Completed")
